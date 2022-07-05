@@ -1,2 +1,2 @@
 # 8-d-audio-homebrew
-It is what is is
+Python script that converts regular mp3 into 8-d audio mp3
