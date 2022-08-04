@@ -1,2 +1,2 @@
-# 8-d-audio-homebrew
-Python script that converts regular wav file into 8-d audio wav file
+# 8d-audio-homebrew
+Python notebook that converts regular wav file into a 8d audio wav file
