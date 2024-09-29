@@ -1,9 +1,7 @@
+# [🔊 Play output](https://aljazfrancic.github.io/read-audio/?p=https://github.com/aljazfrancic/8d-audio-homebrew/raw/refs/heads/main/audio_output.wav)
+
 > [!IMPORTANT]  
 > Listen with headphones!
-
-<p align="center">
-[🔊 Click here to play audio 🔊](https://aljazfrancic.github.io/read-audio/?p=https://github.com/aljazfrancic/8d-audio-homebrew/raw/refs/heads/main/audio_output.wav)
-</p>
 
 # 8d-audio-homebrew
 Jupyter notebook that converts a regular wav file into an 8d audio wav file.
